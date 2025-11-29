@@ -22,8 +22,8 @@ DraCor as a project and the platform dracor.org are run jointly by our team at F
 
 <div id="eu-funding-note">
 
-<img alt="eu flag" title="EU Flag" src="../img/eu.svg">
-<img alt="CLS Infra" title="CLS Infra" src="../img/cls-infra.svg">
+<img alt="eu flag" title="EU Flag" src="img/eu.svg">
+<img alt="CLS Infra" title="CLS Infra" src="img/cls-infra.svg">
 
 In the context of [CLS INFRA](https://clsinfra.io/), the project has received
 funding from the European Union's Horizon 2020 research and innovation programme
@@ -34,7 +34,7 @@ under grant agreement
 
 <div id="dfg-funding-note">
 
-<img alt="exc temporal communities" title="EXC Temporal Communities" src="../img/exc-tc-logo.svg">
+<img alt="exc temporal communities" title="EXC Temporal Communities" src="img/exc-tc-logo.svg">
 
 Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy in the context of the Cluster of Excellence Temporal Communities: Doing Literature in a Global Perspective – EXC 2020 – Project [ID 390608380](https://gepris.dfg.de/gepris/projekt/390608380).
 
@@ -42,7 +42,7 @@ Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) 
 
 <div id="oscars-funding-note">
 
-<img alt="OSCARS" title="Fostering the uptake of Open Science in Europe" src="../img/oscars-eu.png">
+<img alt="OSCARS" title="Fostering the uptake of Open Science in Europe" src="img/oscars-eu.png">
 
 OSCARS is a four-year EU-funded project that strives to foster the uptake of
 Open Science in Europe by consolidating the achievements of world-class European
@@ -56,5 +56,5 @@ Science projects funded through a cascading grant mechanism.
 
 In 2023, [Transkribus](https://readcoop.eu/transkribus/) supported DraCor with free credits for the digitisation of German-language plays printed in 𝔉𝔯𝔞𝔨𝔱𝔲𝔯 typefaces.
 
-![logo fu berlin](../img/fu-berlin.svg 'Free University of Berlin')
-![logo potsdam](../img/uni-potsdam.svg 'University of Potsdam')
+![logo fu berlin](img/fu-berlin.svg "Free University of Berlin")
+![logo potsdam](img/uni-potsdam.svg "University of Potsdam")
