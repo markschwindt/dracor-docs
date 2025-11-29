@@ -30,7 +30,6 @@ jobs:
       - name: Deploy to ${{ inputs.host }}
         run: |
           rsync -rlvz --delete \
-            --exclude=about.md \
             -e 'ssh -o StrictHostKeyChecking=no' \
             doc/ \
             ${{ secrets.deploy-user }}@${{ inputs.host }}:${{ inputs.deploy-path }}/
