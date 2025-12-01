@@ -13,11 +13,11 @@
 
 ## 2023
 * Fischer, Frank; Milling, Carsten; Schwindt, Mark: Streamlining the DraCor API. In: weltliteratur.net, 1 December 2023. [URL](https://weltliteratur.net/streamlining-the-dracor-api/) (last access on 1 December 2025).
-* Huber, Carina: Bochumer Forschende erhalten Rahtz-Preis 2022. In: Ruhr-Universität Bochum. RUB News, 13 February 2023. [URL](https://news.rub.de/leute/2023-03-13-philologie-bochumer-forschende-erhalten-rahtz-preis-2022#:~:text=F%C3%BCr%20die%20Drama-Corpora%20(DraCor,Team%20von%20Forschenden%20verschiedener%20Universit%C3%A4ten)) (last access on 28.11.2025).
+* Huber, Carina: Bochumer Forschende erhalten Rahtz-Preis 2022. In: Ruhr-Universität Bochum. RUB News, 13 February 2023. [URL](https://news.rub.de/leute/2023-03-13-philologie-bochumer-forschende-erhalten-rahtz-preis-2022#:~:text=F%C3%BCr%20die%20Drama-Corpora%20(DraCor,Team%20von%20Forschenden%20verschiedener%20Universit%C3%A4ten)) (last access on 1 December 2025).
 
 ## 2022
 * Huber, Carina: Wenn Computer antike Texte lesen. In: Ruhr-Universität Bochum. RUB News. Mehr als dicke Bücher, 10 March 2022. [URL) (last access on 1 December 2025).
 * Çakir, Dîlan Canan; Fischer, Frank: Wie ein Einakter Kotzebue aus der sibirischen Verbannung rettete. In: Kotzebue International, 16 April 2022. doi:[10.58079/qn2r](https://doi.org/10.58079/qn2r).
 
 ## 2021
-* Fischer, Frank; Milling, Carsten; Schwindt, Mark: DraCor Summer Update (August 2021). In: weltliteratur.net, 5 August 2021. [URL](https://weltliteratur.net/dracor-summer-update-2021/)
+* Fischer, Frank; Milling, Carsten; Schwindt, Mark: DraCor Summer Update (August 2021). In: weltliteratur.net, 5 August 2021. [URL](https://weltliteratur.net/dracor-summer-update-2021/) (last access on 1 December 2025).
