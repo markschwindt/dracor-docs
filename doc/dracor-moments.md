@@ -9,15 +9,10 @@ Explore photos of our community actively participating in DraCor events and proj
 #### Potsdam, 2–4 December 2017
 
 ![Impromptu flash mob on our way to the Fontane Archive.](img/moments/2017-12-02_potsdam_flashmob.jpg)
-
 ![Hackathon at Fontane Archive.](img/moments/2017-12-02_potsdam_hackathon.jpg)
-
 ![Frank and Peer.](img/moments/2017-12-02_potsdam_frank_and_peer.jpg)
-
 ![Another day, another hackathon.](img/moments/2017-12-03_potsdam_hackathon.jpg)
-
 ![Group portrait in front of Sanssouci Palace.](img/moments/2017-12-03_potsdam_sanssouci.jpg)
-
 ![Night walk around Fontane Archive.](img/moments/2017-12-04_potsdam_night_walk.jpg)
 
 #### Kraków, 17 September 2025
