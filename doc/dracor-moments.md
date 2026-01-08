@@ -4,23 +4,22 @@ Explore photos of our community actively participating in DraCor events and proj
 
 #### Göttingen, 17 June 2015
 
-![Hackathon in Göttingen](https://lehkost.github.io/slides/2025-09-02-gerdracor-rusdracor/images/2015-06-17_hackathon_at_gcdh.jpg)
-
-Peer Trilcke, Mathias Göbel, and Dario Kampkaspar (from left to right) hacking drama at Heyne House in Göttingen. (Photo: Frank Fischer)
+![Peer Trilcke, Mathias Göbel, and Dario Kampkaspar (left to right) during an early DLINA hackathon at Heyne House in Göttingen.](img/moments/2015-06-17_goettingen_hackathon.jpg)
 
 #### Potsdam, 2–4 December 2017
 
-![flashmob](https://dlina.github.io/images/photos/potsdam-2017/flashmob.jpg)
-![hackathon b and w](https://dlina.github.io/images/photos/potsdam-2017/hackathon-b-and-w.jpg)
-![sans-souci](https://dlina.github.io/images/photos/potsdam-2017/sans-souci.jpg)
-![hackathoning](https://dlina.github.io/images/photos/potsdam-2017/hackathoning.jpg)
-![frank and peer](https://dlina.github.io/images/photos/potsdam-2017/frank-and-peer.jpg)
-![night walk](https://dlina.github.io/images/photos/potsdam-2017/night-walk.jpg)
+![Impromptu flash mob on our way to the Fontane Archive.](img/moments/2017-12-02_potsdam_flashmob.jpg)
 
-DraCor hackathon in Potsdam. (Photo: Frank Fischer)
+![Hackathon at Fontane Archive.](img/moments/2017-12-02_potsdam_hackathon.jpg)
+
+![Frank and Peer.](img/moments/2017-12-02_potsdam_frank_and_peer.jpg)
+
+![Another day, another hackathon.](img/moments/2017-12-03_potsdam_hackathon.jpg)
+
+![Group portrait in front of Sanssouci Palace.](img/moments/2017-12-03_potsdam_sanssouci.jpg)
+
+![Night walk around Fontane Archive.](img/moments/2017-12-04_potsdam_night_walk.jpg)
 
 #### Kraków, 17 September 2025
 
-![ArDraCor Poster](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ru4oclzugirl6uylfs2v6ige/bafkreih6slzbyb6vqcxvbwnekiqwpu7tnswfp7mbm54zbtqhq5t7em6h4e@jpeg)
-
-Frank Fischer, Gimena del Río Riande, and Ulrike Henny-Krahmer presenting ArDraCor at TEI2025.
+![Frank, Gimena, and Ulrike presenting the ArDraCor poster at TEI2025.](img/moments/2025-09-19_krakow_ardracor_poster_at_tei2025.jpg)
