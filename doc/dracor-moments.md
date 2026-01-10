@@ -27,7 +27,7 @@ Explore photos of our community actively participating in DraCor events and proj
 
 ![Welcome address by the President of Freie Universität Berlin, Günter M. Ziegler.](img/moments/2025-09-01_berlin_dracor_summit_welcome_address.jpg)
 ![Keynote by Clarisse Bardiot.](img/moments/2025-09-01_berlin_dracor_summit_keynote.jpg)
-![Mark and Ingo wearing DraCor merch.](img/moments/2025-09-03_berlin_dracor_shirts.jpg)
+![Mark and Ingo wearing DraCor merch.](img/moments/2025-09-03_berlin_dracor_summit_shirts.jpg)
 ![DraCor Summit group photo (day 3).](img/moments/2025-09-03_berlin_dracor_summit_group_photo.jpg)
 
 #### Kraków, 17 September 2025 (TEI2025)
